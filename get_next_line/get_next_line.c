@@ -7,12 +7,13 @@
 #include <stdlib.h>
 #include <stddef.h>
 
-int get_next_line(int fd, char **line)
+char *get_next_line(int fd)
 {
     char        buf[BUFFER_SIZE + 1];
     int         ret;
     static char *str = NULL;
     char        *temp;
+    char        **line;
 
     ret = BUFFER_SIZE;
     if (fd < 0 || fd > 1023  || !line || BUFFER_SIZE <= 0)
