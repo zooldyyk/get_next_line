@@ -81,7 +81,7 @@ char *ft_glitch2(char *buf)
     i = 0;
     while (buf && buf[i] && buf[i] != '\n')
         i++;
-    dest = malloc (sizeof(char *) * ft_strlen(buf - i + 1)); //calcule la totale du buf avec ft_strlen
+    dest = malloc (sizeof(char *) * ft_strlen(buf - i + 1)); //calcule la longeur totale du buf avec ft_strlen
     if (!dest)
         return (NULL);
     j = 0;
