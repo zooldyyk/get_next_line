@@ -1,4 +1,4 @@
-LES COMMENTAIRES SONT FAIT POUR BALLTROU PORTOS ET TCHOUPI BANDE D'INCAPABLES
+LES COMMENTAIRES SONT FAIT POUR BALLTROU PORTOS ET TCHOUPI BANDE D'INCAPABLES (EHH MERCCEEE JM)
 
 <h1 align="center">
     <img alt="42Lausanne" title="42Lausanne" src="https://github.com/MarJC5/42/blob/main/42_logo.svg" width="140"> </br>
