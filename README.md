@@ -3,7 +3,7 @@ LES COMMENTAIRES SONT FAIT POUR BALLTROU PORTOS ET TCHOUPI BANDE D'INCAPABLES (E
 <h1 align="center">
     Project n°2 - get_next_line
     <h4 align="center" style="width: 54%; margin: 2rem auto; font-weight: normal;"> 
-    Function which returns a line read from a file descriptor.
+    Fonction qui retourne une ligne lue depuis un file descriptor.
     </h4>
 </h1>
 
