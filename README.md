@@ -59,3 +59,4 @@ Comme nous avons maintenant trouvé la nouvelle ligne, nous devons boucler la st
 - Si aucun '\n' n'est trouvé, nous vérifions avec ``ft_strchr()`` si un '\0' est trouvé
     - ``Non trouvé`` : Nous sauvegardons dans ``tmp`` la valeur statique ``*save`` sans la ligne que nous allons retourner. Cela signifie que maintenant ``tmp`` est égal à ``*save`` moins tout ce que nous avons obtenu jusqu'à '\n'. (ex : Hello \n world -> world) Ensuite on peut ``free()`` la statique pour assigner la nouvelle valeur et retourner la ligne.
     - ``0 trouvé`` : Si la statique ``**save`` est == '\0', nous retournons NULL car il n'y a aucune ligne dans la statique. Il ne faut pas forger pour libérer la statique car nous lui avons donné une taille de ``malloc(1)`` au début du programme. (pour éviter les fuites). Sinon la ligne comme une certaine date a inclus '\0', nous retournons simplement la valeur de la statique.
+    -
