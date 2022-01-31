@@ -17,7 +17,7 @@ Le fichier doit être lu ligne par ligne jusqu'à ce qu'il trouve une nouvelle l
 ## Functions needed
 - [malloc()](https://man7.org/linux/man-pages/man3/malloc.3.html), [free()](https://man7.org/linux/man-pages/man1/free.1.html)
 - [read()](https://man7.org/linux/man-pages/man2/read.2.html) ([open()](https://man7.org/linux/man-pages/man2/open.2.html) and [close()](https://man7.org/linux/man-pages/man2/close.2.html) are used only in the main)
-- [ft_strchr()](https://github.com/MarJC5/Libft/blob/main/libft/ft_strchr.c), [ft_strlen()](https://github.com/MarJC5/Libft/blob/main/libft/ft_strlen.c), [ft_strdup()](https://github.com/MarJC5/Libft/blob/main/libft/ft_strdup.c), [ft_substr()](https://github.com/MarJC5/Libft/blob/main/libft/ft_substr.c), [ft_strjoin()](https://github.com/MarJC5/Libft/blob/main/libft/ft_strjoin.c)
+- [ft_strchr()](https://github.com/zooldyyk/Libft.a/blob/main/ft_strchr.c), [ft_strlen()](https://github.com/zooldyyk/piscine/blob/main/c04/ex00/ft_strlen.c), [ft_strdup()](https://github.com/zooldyyk/Libft.a/blob/main/ft_strdup.c), [ft_substr()](https://github.com/MarJC5/Libft/blob/main/libft/ft_substr.c), [ft_strjoin()](https://github.com/zooldyyk/Libft.a/blob/main/ft_strjoin.c)
 
 ## Set-by-step
 
