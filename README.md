@@ -7,11 +7,8 @@ DONC LE CODE EST FAIT AVEC DES STRUCTS, RENSEIGNEZ VOUS SUR LES STRUCTS C'EST VR
     </h4>
 </h1>
 
-
-LES COMMENTAIRES SONT FAIT POUR BALLTROU PORTOS ET TCHOUPI BANDE D'INCAPABLES (EHH MERCCEEE JM)
-
 <h1 align="center">
-    Project n°2 - get_next_line
+    Project n°2 - get_next_line(sans structs, eh mercceee jm pour tout)
     <h4 align="center" style="width: 54%; margin: 2rem auto; font-weight: normal;"> 
     Fonction qui retourne une ligne lue depuis un file descriptor.
     </h4>
