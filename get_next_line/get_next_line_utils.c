@@ -1,6 +1,4 @@
-#include "gnl.h"
-
-#include "gnl.h"
+#include "get_next_line.h"
 
 /* 
     (*Pointeur).un champ = x;
