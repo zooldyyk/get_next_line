@@ -21,7 +21,7 @@ typedef struct t_read
     int     max;
     int     pos;
     char    str[BUFFER_SIZE];
-   // defini nom de la structure (pour ne pas mettre a chaque fois struct ...)
+   // defini nom de la structure (pour ne pas mettre a chaque fois struct t_read)
 }   t_read;
 
 int     ft_strlen(char	*str);
